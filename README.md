@@ -1,6 +1,8 @@
 EPIC-EASY-CMS
 =============
 
+Download it from here <a href="https://drive.google.com/file/d/0B3HOzly5EXXQUVJ2eDQyUHZ2ZDQ/edit?usp=sharing" target="_blank">Click to download</a>
+
 Welcome to EPIC EASY CMS<br/>
 Version 2.0 Launched<br/>
 THIS IS A TINY CMS THAT CAN BE USED TO POWER SMALL AND LIGHT SITE.<br/>
